@@ -1,6 +1,6 @@
-Convertor fișiere wav: PCM <-> IMA ADPCM (C++ (consolă))
-(Reverse engineering pe un MP3-Player chinezesc vechi)
-(Codificare - decodificare IMA ADPCM)
+# Convertor fișiere wav: PCM <-> IMA ADPCM (C++ (consolă))
+## (Reverse engineering pe un MP3-Player chinezesc vechi)
+## (Codificare - decodificare IMA ADPCM)
 
 COMENTARIILE DIN CODUL SURSĂ EXPLICĂ ÎN DETALIU RAȚIONAMENTUL DIN SPATELE ALGORITMULUI.
 
